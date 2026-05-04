@@ -250,6 +250,7 @@ let q = 5;        // 6
 console.log(++q);
     
 
-// ASSIGNMENT 2 COMPLETED
+// Assignment completed but due date oh noo 
+
 
 
