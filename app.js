@@ -239,7 +239,10 @@ console.log(typeof name1)
 
 
 
-// 10- INCREMENT / DECREMENT
+
+
+
+// 10- INCREMENT / 
 
 // ANS1
 let c = 5;   // 5
