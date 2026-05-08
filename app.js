@@ -1,7 +1,7 @@
 // ASSIGNMENT 2 JS 
 
 
-// 1- JAVASCRIPT BASICS.........
+// 1- JAVASCRIPT BASICS.....
 
 
 // ANS1
@@ -24,7 +24,7 @@
 
 
 
-// 2 - INTERPRETER VS COMPILER......... 
+// 2 - INTERPRETER VS COMPILER......
 
 // ANS1
 // interpreter program ko line by line read karke execute karta hai.
@@ -50,7 +50,7 @@
 
 
 
-// 3- VARIABLE VAR LET CONST..........    
+// 3- VARIABLE VAR LET CONST......  
 
 // ANS1
 // Variable ek container hota hai jisme hum data store karte hain.
@@ -90,7 +90,7 @@ const z = 5;  // ERROR
 
 
 
-//  4 - DATA TYPES........ 
+//  4 - DATA TYPES......
 
 // ANS1
 // 2 type kai data type hotai hai 
@@ -132,7 +132,7 @@ let fruits = ["Apple", "Banana", "Mango"];
 
 
 
-// 5 - TYPE OF......... 
+// 5 - TYPE OF......
 
 // ANS1 
 //  type of operator wo hotai hai jo data type ko identify karke kai batatai ..
@@ -151,7 +151,7 @@ console.log(typeof name1)
 
 
 
-// 6- TRUTHY AND FALSY......... 
+// 6- TRUTHY AND FALSY......
 
 // ANS1
 // truthy value sirf ture hoti hai..
@@ -178,7 +178,7 @@ console.log(typeof name1)
 
 
 
-// 7-OPERATORS........
+// 7-OPERATORS......
 
 // ANS1
     // arthimetic operator 
@@ -199,7 +199,7 @@ console.log(typeof name1)
 
 
 
-// 8- COMPARISON OPERATOR.......... 
+// 8- COMPARISON OPERATOR.......
 
 // ANS1
      //  ==    // data type check nhi kartta
@@ -220,8 +220,7 @@ console.log(typeof name1)
 
 
 
-
-// 9- LOGICAL OPERATOR........
+// 9- LOGICAL OPERATOR......
 
 // ANS1
 // JavaScript mein 3 logical operators hote hain:
@@ -242,7 +241,7 @@ console.log(typeof name1)
 
 
 
-// 10- INCREMENT / DECREMENT OPERATOR........
+// 10- INCREMENT / DECREMENT OPERATOR......
 
 // ANS1
 let c = 5;   // 5
@@ -253,7 +252,7 @@ let q = 5;        // 6
 console.log(++q);
     
 
-// Assignment completed 2
+// Assignment completed 2 but5 late 
 
 
 
