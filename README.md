@@ -1,11 +1,11 @@
-JavaScript Assignment 2
+# JavaScript Assignment 2
 
 A collection of JavaScript programming tasks designed to strengthen core JavaScript concepts through practical 
 coding exercises.
 
 ---
 
-## 🚀 Live Demo
+# 🚀 Live Demo
 
 > Add your deployed link here (if available)
 
@@ -13,10 +13,10 @@ coding exercises.
 
 ---
 
-## 📖 Overview
+# 📖 Overview
 
 This project contains solutions for JavaScript Assignment 2. It focuses on improving problem-solving skills and
-understanding fundamental JavaScript concepts by implementing different programming tasks.
+understanding fundamental JavaScript concepts and also function usability  by implementing different programming tasks.
 
 The project is beginner-friendly and demonstrates clean, readable, and maintainable JavaScript code.
 
@@ -41,13 +41,6 @@ The project is beginner-friendly and demonstrates clean, readable, and maintaina
 
 ---
 
-## 📂 Project Structure
 
-
-
-assignment-js-2/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+├── index.ht├ style.css
+├── 
